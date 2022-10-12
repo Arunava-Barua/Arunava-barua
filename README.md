@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 **Testing**
 <br>
 <br>
-<img src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=plastic" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Mocha-8D6748?logo=Mocha&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Chai-A30701?logo=Chai&logoColor=white&style=for-the-badge" />
