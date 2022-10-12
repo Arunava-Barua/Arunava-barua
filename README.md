@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 💬 Let's discuss about cosmos SDK.
 - 📫 How to reach me: rahulbarua31@gmail.com.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=Arunava-Barua&theme=radical)
