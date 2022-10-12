@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunava-barua&theme=radical)
 
 
-<h1>Tech Stack I work on: </h1>
+<h3>Tech Stack I work on: </h3>
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/ReactJs-61DAFB?logo=React&logoColor=white&style=for-the-badge" /><img src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white&style=for-the-badge" />
 
   
