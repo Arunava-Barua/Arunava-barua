@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunava-barua&theme=radical)
 
-<img src="https://img.shields.io/badge/BadgeText-ReactJs?logo=React&logoColor=White&style=flat" />
+<img src="https://img.shields.io/badge/ReactJs-ReactJs?logo=React&logoColor=White&style=flat" />
