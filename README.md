@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 <br>
 <img src="https://img.shields.io/badge/Google Chrome-4285F4?logo=Google Chrome&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Firefox Browser-FF7139?logo=Firefox Browser&logoColor=white&style=for-the-badge" />
 
 
