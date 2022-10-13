@@ -38,18 +38,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge" />
-
-**IDEs and playgrounds i use**
-<br>
-<br>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/CodePen-000000?logo=CodePen&logoColor=white&style=for-the-badge" />
-
-**Browsers**
-<br>
-<br>
-<img src="https://img.shields.io/badge/Google Chrome-4285F4?logo=Google Chrome&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firefox Browser-FF7139?logo=Firefox Browser&logoColor=white&style=for-the-badge" />
-
-
