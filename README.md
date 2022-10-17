@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m Arunava.
+- 🔭 I’m Arunava Barua.
 - 🌱 I’m currently learning best practices for backend architecture.
 - 👯 I’m looking to collaborate on web3 projects.
 - 🔍 Looking for discussions on web3 projects on EVM compatible chains.
