@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m Arunava Barua.
-- 🌱 I’m currently learning best practices for backend architecture.
+- 🌱 I’m currently learning Tron and Near Protocol.
 - 👯 I’m looking to collaborate on web3 projects.
 - 🔍 Looking for discussions on web3 projects on EVM compatible chains.
 - 💬 Let's discuss about Cosmos SDK.
