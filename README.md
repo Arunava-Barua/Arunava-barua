@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Let's discuss about Cosmos SDK.
 - 📫 How to reach me: rahulbarua31@gmail.com.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunava-barua&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunava-barua&theme=dracula)
 
 **Technologies I worked on**
 <br>
