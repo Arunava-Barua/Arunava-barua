@@ -8,9 +8,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m Arunava Barua.
 - 🌱 I’m currently learning Tron and Near Protocol.
-- 👯 I’m looking to collaborate on web3 projects.
+- 👯 I’m looking to collaborate on Web3 projects.
 - 🔍 Looking for discussions on web3 projects on EVM compatible chains.
 - 💬 Let's discuss about Cosmos SDK.
+- 🤯 
 - 📫 How to reach me: rahulbarua31@gmail.com.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunava-barua&theme=dracula)
