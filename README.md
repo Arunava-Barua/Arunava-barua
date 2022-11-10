@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔍 Looking for discussions on Web3 projects on EVM compatible chains.
 - 💬 Let's discuss about Cosmos SDK.
 - 💻 Working on hackathon projects.
-- 📫 How to reach me: rahulbarua31@gmail.com
+- 📫 How to reach me: rahulbarua31@gmail.com.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunava-barua&theme=dracula)
 
