@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m Arunava Barua.
+- 🔭 I’m Arunava Barua..
 - 🎓 Currently, pursuing B.Tech in CSE.
 - 🌱 I’m currently learning Tron and Near Protocol.
 - 👯 I’m looking to collaborate on Web3 projects.
